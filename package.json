@@ -2,7 +2,7 @@
   "name": "misc-bots",
   "version": "1.0.0",
   "description": "",
-  "main": "stockx.js",
+  "main": "shoebot.js",
   "dependencies": {
     "discord-webhook-node": "^1.1.8",
     "stockx-api": "^1.1.0"
