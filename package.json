@@ -1,0 +1,25 @@
+{
+  "name": "misc-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stockx.js",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "stockx-api": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgensheimer/misc-bots.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgensheimer/misc-bots/issues"
+  },
+  "homepage": "https://github.com/kgensheimer/misc-bots#readme"
+}
